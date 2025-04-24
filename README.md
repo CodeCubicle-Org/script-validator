@@ -13,3 +13,6 @@ This is a small prototype to validate your scripts before executing them, to mak
 
 ## Usage
 - tbd
+
+## Libraries
+- https://index.scala-lang.org/com-lihaoyi/os-lib
