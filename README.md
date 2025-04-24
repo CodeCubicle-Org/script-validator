@@ -15,3 +15,7 @@ This is a small prototype to validate your scripts before executing them, to mak
 - tbd
 
 - [Central Library Repository](https://mvnrepository.com/repos/central)
+
+## Libraries
+- https://index.scala-lang.org/com-lihaoyi/os-lib
+
