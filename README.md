@@ -13,3 +13,5 @@ This is a small prototype to validate your scripts before executing them, to mak
 
 ## Usage
 - tbd
+
+- [Central Library Repository](https://mvnrepository.com/repos/central)
