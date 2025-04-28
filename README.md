@@ -20,4 +20,4 @@ This is a small prototype to validate your scripts before executing them, to mak
 - https://index.scala-lang.org/com-lihaoyi/os-lib
 
 ## Contributors
-Created with the help of Martin and Stefania, thanks a lot!
+Created with the help of Martin and Stefania at Hackergarten in April 2025, thanks a lot!
